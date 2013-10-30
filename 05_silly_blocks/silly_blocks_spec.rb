@@ -80,7 +80,7 @@ describe "some silly block functions" do
         n += 1
       end
       n.should == 3
-    end
+    end\
 
     it "executes the default block 10 times" do
       n = 0
